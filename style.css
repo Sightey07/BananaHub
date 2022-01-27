@@ -1,0 +1,145 @@
+body{
+  background-image:  url(Photos/bananenbackground.jpeg) ;
+}
+
+label {
+  font-family: 'Courier New', Courier, monospace; font-size: 24px; font-weight: bold 
+}
+
+textarea{
+  font-family: 'Courier New', Courier, monospace; 
+  font-weight: bold ;
+    width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: rgba(88, 77, 61, 0.5);
+  font-size: 16px;
+  resize: none;
+}
+
+#wrapper {
+  width: 1850px;
+  margin: auto;
+}
+.menubutton {
+    margin: 5px 80px 5px 80px;
+    padding: 5px;
+    width: auto;
+    float: left;
+    height: 30px;
+    top: -1px;
+    
+    text-align: center
+}
+
+
+#sidebar {
+   width: 1808px;
+   height: 60px;
+   margin: 1px;
+   padding: 20px;
+   float: left;
+   background-color: rgba(88, 77, 61, 0.5) ;
+}
+ 
+#header {
+   width: 1846px;
+   height: 158px;  
+   margin: 1px;
+   padding: 1px;
+   float: left;
+   background-color: rgba(88, 77, 61, 0.5) ;
+}
+  #banana_1 {width: 158px; float: left;}
+  #BananaHub {width: 1530px; float: left; align-self: center;}
+  #banana_2 {width: 158px; float: left;}
+
+article {
+   width: 903px;
+   height: 721px;  
+   margin: 1px;
+   padding: 5px 10px 5px 10px;
+   float: left;
+   background-color: rgba(241, 255, 98, 0.5);
+}
+
+#max_width { 
+  width: 1846px;
+  height: auto;
+  margin: 1px;
+  padding: 1px;
+  float: left;
+}
+
+.plaatjes_fullscreen { 
+  float: left;
+}
+
+#bananenboom { 
+  background-color: rgba(241, 255, 98, 0.5);
+}
+
+
+#picture {
+   width: 903px;
+   height: 721px;  
+   margin: 1px;
+   padding: 5px 10px 5px 10px;
+   float: left;
+   background-color: rgba(241, 255, 98, 0.5);
+}
+ 
+footer {
+   width: 1847px;
+   height: 150px;  
+   margin: 5px, 1px, 0px, 1px;
+   padding: 1px;
+   clear: both;
+   background-color: rgba(241, 255, 61, 0.5) ;
+}
+
+p { font-family: 'Courier New', Courier, monospace; font-size: 16px; font-weight: bold }
+
+h2{ 
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 40px
+}
+
+h3{ 
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px
+}
+
+h4{ 
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px
+}
+
+.TITLE{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 80px
+}
+
+.idk {
+  color: blue;
+  text-decoration: underline;
+}
+
+#met_streep {
+  color: blue;
+  text-decoration: underline;
+}
+
+a {
+  color: black;
+   text-decoration: none;
+}
+
+a:hover {
+  color: black;
+   text-decoration: none;
+   cursor: cell ;
+}
